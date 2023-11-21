@@ -17,6 +17,14 @@
       "username": "matt123",
       "password": "123456",
       "id": 1
+    },
+    {
+      "name": "Sandra White",
+      "email": "sandra@medic.com",
+      "license": "123455",
+      "username": "sandra",
+      "password": "123456",
+      "id": 2
     }
   ],
   "Users": [
